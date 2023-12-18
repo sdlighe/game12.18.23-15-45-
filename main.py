@@ -8,7 +8,7 @@ TILESIZE = 32
 
 pygame.init()
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("Plataformer Example")
+pygame.display.set_caption("Gameg")
 
 global objects
 objects = []
